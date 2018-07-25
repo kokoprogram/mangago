@@ -1,0 +1,782 @@
+[
+  {
+    "id": "c129",
+    "title": "Ch.129",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c128",
+    "title": "Ch.128",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c127",
+    "title": "Ch.127",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c126",
+    "title": "Ch.126",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c125",
+    "title": "Ch.125",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c124",
+    "title": "Ch.124",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c123",
+    "title": "Vol.6 Ch.123",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c122",
+    "title": "Vol.6 Ch.122",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c121",
+    "title": "Vol.6 Ch.121",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-120",
+    "title": "Vol.9 Ch.120  : 120th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-119",
+    "title": "Vol.9 Ch.119  : 119th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-118",
+    "title": "Vol.9 Ch.118  : 118th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-117",
+    "title": "Vol.9 Ch.117  : 117th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-116",
+    "title": "Vol.9 Ch.116  : 116th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-115",
+    "title": "Vol.9 Ch.115  : 115th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-114",
+    "title": "Vol.9 Ch.114  : 114th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-113",
+    "title": "Vol.9 Ch.113  : 113th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-112",
+    "title": "Vol.9 Ch.112  : 112th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-111",
+    "title": "Vol.9 Ch.111  : 111th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-110",
+    "title": "Vol.9 Ch.110  : 110th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-109",
+    "title": "Vol.9 Ch.109  : 109th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-9-chapter-108",
+    "title": "Vol.9 Ch.108  : 108th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-107",
+    "title": "Vol.8 Ch.107  : 107th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-106",
+    "title": "Vol.8 Ch.106  : 106th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-105",
+    "title": "Vol.8 Ch.105  : 105th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-104",
+    "title": "Vol.8 Ch.104  : 104th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-103",
+    "title": "Vol.8 Ch.103  : 103rd Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-102",
+    "title": "Vol.8 Ch.102  : 102nd Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-101",
+    "title": "Vol.8 Ch.101  : 101st Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-100",
+    "title": "Vol.8 Ch.100  : 100th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-99",
+    "title": "Vol.8 Ch.99  : 99th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-98",
+    "title": "Vol.8 Ch.98  : 98th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-97",
+    "title": "Vol.8 Ch.97  : 97th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-96",
+    "title": "Vol.8 Ch.96  : 96th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-8-chapter-95",
+    "title": "Vol.8 Ch.95  : 95th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-94",
+    "title": "Vol.7 Ch.94  : 94th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-93",
+    "title": "Vol.7 Ch.93  : 93rd Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-92",
+    "title": "Vol.7 Ch.92  : 92nd Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-91",
+    "title": "Vol.7 Ch.91  : 91st Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-90",
+    "title": "Vol.7 Ch.90  : 90th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-89",
+    "title": "Vol.7 Ch.89  : 89th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-88",
+    "title": "Vol.7 Ch.88  : 88th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-87",
+    "title": "Vol.7 Ch.87  : 87th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-86",
+    "title": "Vol.7 Ch.86  : 86th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-85",
+    "title": "Vol.7 Ch.85  : 85th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-84",
+    "title": "Vol.7 Ch.84  : 84th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-83",
+    "title": "Vol.7 Ch.83  : 83rd Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-7-chapter-82",
+    "title": "Vol.7 Ch.82  : 82nd Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-81.5",
+    "title": "Vol.6 Ch.81.5  : 2 Omake",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-80",
+    "title": "Vol.6 Ch.80  : 80th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-79",
+    "title": "Vol.6 Ch.79  : 79th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-78",
+    "title": "Vol.6 Ch.78  : 78th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-77",
+    "title": "Vol.6 Ch.77  : 77th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-76",
+    "title": "Vol.6 Ch.76  : 76th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-75",
+    "title": "Vol.6 Ch.75  : 75th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-74",
+    "title": "Vol.6 Ch.74  : 74th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c073",
+    "title": "Vol.6 Ch.73",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c072",
+    "title": "Vol.6 Ch.72",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c071",
+    "title": "Vol.6 Ch.71  : 71st Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "291754_Vol6_Ch70",
+    "title": "Vol.6 Ch.70  : 70th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c069",
+    "title": "Vol.6 Ch.69  : 69th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c068",
+    "title": "Vol.5 Ch.68  : 68th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c067",
+    "title": "Vol.5 Ch.67",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c066",
+    "title": "Vol.5 Ch.66",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "271177_Vol5_Ch65",
+    "title": "Vol.5 Ch.65  : 65th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "tonari-no-seki-kun_64",
+    "title": "Ch.64  : :",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "269158_Vol5_Ch63",
+    "title": "Vol.5 Ch.63  : 63rd Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c062",
+    "title": "Vol.5 Ch.62",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c061",
+    "title": "Vol.5 Ch.61",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "266894_Vol5_Ch60",
+    "title": "Vol.5 Ch.60  : 60th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c059",
+    "title": "Vol.5 Ch.59",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c058",
+    "title": "Ch.58",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c057",
+    "title": "Ch.57",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c056",
+    "title": "Vol.4 Ch.56",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c055",
+    "title": "Ch.55",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "260782_Vol4_Ch54",
+    "title": "Vol.4 Ch.54  : 54th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "250631_Vol4_Ch53",
+    "title": "Vol.4 Ch.53  : 53rd Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c052",
+    "title": "Vol.4 Ch.52",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c051",
+    "title": "Vol.4 Ch.51",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c050",
+    "title": "Vol.4 Ch.50",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c049",
+    "title": "Vol.4 Ch.49",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c048",
+    "title": "Vol.4 Ch.48",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c047",
+    "title": "Vol.4 Ch.47",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c046",
+    "title": "Vol.4 Ch.46",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "217633_Vol4_Ch45",
+    "title": "Vol.4 Ch.45  : 45th Period",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c044",
+    "title": "Vol.4 Ch.44",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c043",
+    "title": "Vol.4 Ch.43",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c042",
+    "title": "Vol.3 Ch.42",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c041",
+    "title": "Vol.3 Ch.41",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c040",
+    "title": "Vol.3 Ch.40",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c039",
+    "title": "Vol.3 Ch.39",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c038",
+    "title": "Vol.3 Ch.38",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c037",
+    "title": "Vol.3 Ch.37",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c036",
+    "title": "Vol.3 Ch.36",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c035",
+    "title": "Vol.3 Ch.35",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c034",
+    "title": "Vol.3 Ch.34",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c033",
+    "title": "Vol.3 Ch.33",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c032",
+    "title": "Vol.3 Ch.32",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c031",
+    "title": "Vol.3 Ch.31",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c030",
+    "title": "Vol.3 Ch.30",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c029",
+    "title": "Vol.3 Ch.29",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c028",
+    "title": "Vol.2 Ch.28",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c027",
+    "title": "Vol.2 Ch.27",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c026",
+    "title": "Vol.2 Ch.26",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c025",
+    "title": "Vol.2 Ch.25",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c024",
+    "title": "Vol.2 Ch.24",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c023",
+    "title": "Vol.2 Ch.23",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c022",
+    "title": "Vol.2 Ch.22",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c021",
+    "title": "Vol.2 Ch.21",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c020",
+    "title": "Vol.2 Ch.20",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c019",
+    "title": "Vol.2 Ch.19",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c018",
+    "title": "Vol.2 Ch.18",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c017",
+    "title": "Vol.2 Ch.17",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c016",
+    "title": "Vol.2 Ch.16",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c015.1",
+    "title": "Vol.1 Ch.15.1",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c015",
+    "title": "Vol.1 Ch.15",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c014",
+    "title": "Vol.1 Ch.14",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c013",
+    "title": "Vol.1 Ch.13",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c012",
+    "title": "Vol.1 Ch.12",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c011",
+    "title": "Vol.1 Ch.11",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c010",
+    "title": "Vol.1 Ch.10",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c009",
+    "title": "Vol.1 Ch.9",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c008",
+    "title": "Vol.1 Ch.8",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c007",
+    "title": "Vol.1 Ch.7",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c006",
+    "title": "Vol.1 Ch.6",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c005",
+    "title": "Vol.1 Ch.5",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c004",
+    "title": "Vol.1 Ch.4",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c003",
+    "title": "Vol.1 Ch.3",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c002",
+    "title": "Vol.1 Ch.2",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c001",
+    "title": "Vol.1 Ch.1",
+    "language": "en",
+    "scanlator": ""
+  }
+]

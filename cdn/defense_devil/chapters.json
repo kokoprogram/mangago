@@ -1,0 +1,602 @@
+[
+  {
+    "id": "v10_c100",
+    "title": "Vol.10 Ch.100  : Gran Finale",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v10_c099",
+    "title": "Vol.10 Ch.99  : I Miss You...",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v10_c098",
+    "title": "Vol.10 Ch.98  : A Month Later...",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v10_c097",
+    "title": "Vol.10 Ch.97  : The Arrival of the Angels",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v10_c096",
+    "title": "Vol.10 Ch.96  : If We Join Our Forces",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v10_c095",
+    "title": "Vol.10 Ch.95  : Judgement 67: Idamaria and Shugarl",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v10_c094",
+    "title": "Vol.10 Ch.94  : Judgement 66: A Fallen Angel",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v10_c093",
+    "title": "Vol.10 Ch.93  : Judgement 65: Kucabara's Smile",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v10_c092",
+    "title": "Vol.10 Ch.92  : Judgement 64: A Promise with Father",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v10_c091",
+    "title": "Vol.10 Ch.91  : Judgement 63: The Pride of a Devil",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v10_c090",
+    "title": "Vol.10 Ch.90  : Judgement 62: Collecting Clerk",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c089",
+    "title": "Vol.9 Ch.89  : Judgement 61: Kelia's Recollection",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c088",
+    "title": "Vol.9 Ch.88  : Judgement 60: You're the Best, Onii-chan!!",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c087",
+    "title": "Vol.9 Ch.87  : Judgement 59: The Mysterious Painting",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c086",
+    "title": "Vol.9 Ch.86  : Judgement 58: Lilith's Resurrection",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c085",
+    "title": "Vol.9 Ch.85  : Judgement 57: Elimona's Confession",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c084",
+    "title": "Vol.9 Ch.84  : Judgement 56: A Secret Between the Two of Us",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c083",
+    "title": "Vol.9 Ch.83  : Judgement 55:  A Hindrance",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c082",
+    "title": "Vol.9 Ch.82  : Judgement 54: A Small, Small Love Song",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c081",
+    "title": "Vol.9 Ch.81  : Judgement 53: Dogfight",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c080",
+    "title": "Vol.9 Ch.80  : Judgement 52: Subspace",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v09_c079",
+    "title": "Vol.9 Ch.79  : Judgement 51: True Form",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c078",
+    "title": "Vol.8 Ch.78  : Judgement 50: Interrogation",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c077",
+    "title": "Vol.8 Ch.77  : Judgement 49: Shugarl's Sixth Sense",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c076",
+    "title": "Vol.8 Ch.76  : Judgement 48: Right Turn",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c075",
+    "title": "Vol.8 Ch.75  : Judgement 47: Innocence Item",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c074",
+    "title": "Vol.8 Ch.74  : Judgement 46: The Man in the Mirror",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c073",
+    "title": "Vol.8 Ch.73  : Judgement 45: Phoenix Hell",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c072",
+    "title": "Vol.8 Ch.72  : Judgement 44: Father Selma",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c071",
+    "title": "Vol.8 Ch.71  : Judgement 43: Kanto",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c070",
+    "title": "Vol.8 Ch.70  : Judgement 42: Hummingbird",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c069",
+    "title": "Vol.8 Ch.69  : Judgement 41: Calculation Mistake",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v08_c068",
+    "title": "Vol.8 Ch.68  : Judgement 40: Oasis",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v07_c067",
+    "title": "Vol.7 Ch.67  : Judgement 39: Samus",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v07_c066",
+    "title": "Vol.7 Ch.66  : Judgement 38: 'Y''s Past",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v07_c065",
+    "title": "Vol.7 Ch.65  : Judgement 37: To Win Without Fighting",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v07_c064",
+    "title": "Vol.7 Ch.64  : Judgement 36: Children's Room",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v07_c063",
+    "title": "Vol.7 Ch.63  : Judgement 35: --- Football",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v07_c062",
+    "title": "Vol.7 Ch.62  : Judgement 34: Gigades' Baptism",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v07_c061",
+    "title": "Vol.7 Ch.61  : Judgement 33: Stone Hell",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v07_c060",
+    "title": "Vol.7 Ch.60  : Judgement 32: The Sky Rock",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v07_c059",
+    "title": "Vol.7 Ch.59  : Judgement 31: Shugarl and Jupiter",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v07_c058",
+    "title": "Vol.7 Ch.58  : Judgement 30: Operation: Gasoline Hustle",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c057",
+    "title": "Vol.6 Ch.57  : Judgement 29: Idamaria's Dream",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c056",
+    "title": "Vol.6 Ch.56  : Judgement 28 - An Idiot Would Look that Way",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c055",
+    "title": "Vol.6 Ch.55  : Judgement 27 - The Promise that We Made that Time",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c054",
+    "title": "Vol.6 Ch.54  : Judgement 26: The Death of Bichula",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c053",
+    "title": "Vol.6 Ch.53  : Judgement 25: Hole of Distress",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c052",
+    "title": "Vol.6 Ch.52  : Judgement 24: Coliseum",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c051",
+    "title": "Vol.6 Ch.51  : Judgement 23: The Friend of the Prince",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c050",
+    "title": "Vol.6 Ch.50  : Judgement 22: Discord",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c049",
+    "title": "Vol.6 Ch.49  : Judgement 21: Wall of Despair",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v06_c048",
+    "title": "Vol.6 Ch.48  : Judgement 20: Advantage and Disadvantage",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c047",
+    "title": "Vol.5 Ch.47  : Judgement 19: A Gift from Jupiter",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c046",
+    "title": "Vol.5 Ch.46  : Judgement 18: Old Woman and Little Girl",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c045",
+    "title": "Vol.5 Ch.45  : Judgement 17: To Each Their Own Battle",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c044",
+    "title": "Vol.5 Ch.44  : Judgement 16: Catfight",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c043",
+    "title": "Vol.5 Ch.43  : Judgement 15: Kelsa",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c042",
+    "title": "Vol.5 Ch.42  : Judgement 14: Brillheart",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c041",
+    "title": "Vol.5 Ch.41  : Judgement 13: Jody",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c040",
+    "title": "Vol.5 Ch.40  : Judgement 12: Man & Woman",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c039",
+    "title": "Vol.5 Ch.39  : Judgement 11: Kucabara Brother",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v05_c038",
+    "title": "Vol.5 Ch.38  : Judgement 10: A Promise and a Contract",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c037",
+    "title": "Vol.4 Ch.37  : Judgement 9: Invitation",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c036",
+    "title": "Vol.4 Ch.36  : Judgement 8: The Night Before Departure",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c035",
+    "title": "Vol.4 Ch.35  : Judgement 7: Legato [Part 1]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c034",
+    "title": "Vol.4 Ch.34  : Judgement 6: The Key to the Demon World [Part 9]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c033",
+    "title": "Vol.4 Ch.33  : Judgement 6: The Key to the Demon World [Part 8]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c032",
+    "title": "Vol.4 Ch.32  : Judgement 6: The Key to the Demon World [Part 7]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c031",
+    "title": "Vol.4 Ch.31  : Judgement 6: The Key to the Demon World [Part 6]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c030",
+    "title": "Vol.4 Ch.30  : Judgement 6: The Key to the Demon World [Part 5]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c029",
+    "title": "Vol.4 Ch.29  : Judgement 6: The Key to the Demon World [Part 4]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v04_c028",
+    "title": "Vol.4 Ch.28  : Judgement 6: The Key to the Demon World [Part 3]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c027",
+    "title": "Vol.3 Ch.27  : Judgement 6: The Key to the Demon World [Part 2]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c026",
+    "title": "Vol.3 Ch.26  : Judgement 6: The Key to the Demon World [Part 1]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c025",
+    "title": "Vol.3 Ch.25  : Judgement 5: Kucabara's Wisdom [Part 6]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c024",
+    "title": "Vol.3 Ch.24  : Judgement 5: Kucabara's Wisdom [Part 5]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c023",
+    "title": "Vol.3 Ch.23  : Judgement 5: Kucabara's Wisdom [Part 4]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c022",
+    "title": "Vol.3 Ch.22  : Judgement 5: Kucabara's Wisdom [Part 3]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c021",
+    "title": "Vol.3 Ch.21  : Judgement 5: Kucabara's Wisdom [Part 2]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c020",
+    "title": "Vol.3 Ch.20  : Judgement 5: Kucabara's Wisdom [Part 1]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c019",
+    "title": "Vol.3 Ch.19  : Judgement 4: Mysterious Woman [Part 5]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v03_c018",
+    "title": "Vol.3 Ch.18  : Judgement 4: Mysterious Woman [Part 4]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c017",
+    "title": "Vol.2 Ch.17  : Judgement 4: Mysterious Woman [Part 3]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c016",
+    "title": "Vol.2 Ch.16  : Judgement 4: Mysterious Woman [Part 2]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c015",
+    "title": "Vol.2 Ch.15  : Judgement 4: Mysterious Woman [Part 1]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c014",
+    "title": "Vol.2 Ch.14  : Judgement 3: Hero [Part 8]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c013",
+    "title": "Vol.2 Ch.13  : Judgement 3: Hero [Part 7]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c012",
+    "title": "Vol.2 Ch.12  : Judgement 3: Hero [Part 6]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c011",
+    "title": "Vol.2 Ch.11  : Judgement 3: Hero [Part 5]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c010",
+    "title": "Vol.2 Ch.10  : Judgement 3: Hero [Part 4]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c009",
+    "title": "Vol.2 Ch.9  : Judgement 3: Hero [Part 3]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v02_c008",
+    "title": "Vol.2 Ch.8  : Judgement 3: Hero [Part 2]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c007",
+    "title": "Vol.1 Ch.7  : Judgement 3: Hero [Part 1]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c006",
+    "title": "Vol.1 Ch.6  : Judgement 2: Apple Tree [Part 5]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c005",
+    "title": "Vol.1 Ch.5  : Judgement 2: Apple Tree [Part 4]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c004",
+    "title": "Vol.1 Ch.4  : Judgement 2: Apple Tree [Part 3]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c003",
+    "title": "Vol.1 Ch.3  : Judgement 2: Apple Tree [Part 2]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c002",
+    "title": "Vol.1 Ch.2  : Judgement 2: Apple Tree [Part 1]",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "v01_c001",
+    "title": "Vol.1 Ch.1  : Judgement 1: Frog Rain",
+    "language": "en",
+    "scanlator": ""
+  }
+]

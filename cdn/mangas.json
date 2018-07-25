@@ -114506,5 +114506,937 @@
   {
     "id": "/read-manga/man_of_a_virtue/?av=4",
     "title": "Man Of A Virtue"
+  },
+  {
+    "id": "/read-manga/wake_up_sleeping_beauty/",
+    "title": "Wake Up, Sleeping Beauty"
+  },
+  {
+    "id": "/read-manga/tensei_kizoku_no_isekai_boukenroku_jichou_wo_shiranai_kamigami_no_shito/",
+    "title": "Tensei Kizoku no Isekai Boukenroku ~Jichou wo Shiranai Kamigami no Shito~"
+  },
+  {
+    "id": "/read-manga/skeleton_soldier_skeleton_soldier_couldn_t_protect_the_dungeon/",
+    "title": "Skeleton Soldier (Skeleton Soldier Couldn't Protect the Dungeon)"
+  },
+  {
+    "id": "/read-manga/isekai_de_kojiin_wo_hiraita_kedo_naze_ka_darehitori_sudatou_to_shinai_ken/",
+    "title": "Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken"
+  },
+  {
+    "id": "/read-manga/bai_he_lily/",
+    "title": "Bai He (Lily)"
+  },
+  {
+    "id": "/read-manga/very_pure/",
+    "title": "Very Pure"
+  },
+  {
+    "id": "/read-manga/satsuriku_no_tenshi_episode_0/",
+    "title": "Satsuriku no Tenshi: Episode.0"
+  },
+  {
+    "id": "/read-manga/takahashi_and_hirukawa/",
+    "title": "Takahashi and Hirukawa"
+  },
+  {
+    "id": "/read-manga/my_childhood_friend_changes_daily/",
+    "title": "My Childhood Friend Changes Daily"
+  },
+  {
+    "id": "/read-manga/nanatsu_no_taizai_production/",
+    "title": "Nanatsu no Taizai Production"
+  },
+  {
+    "id": "/read-manga/girls_brooms_and_tomato_sauce/",
+    "title": "Girls, Brooms, and Tomato Sauce"
+  },
+  {
+    "id": "/read-manga/sign_language/?av=5",
+    "title": "Sign Language"
+  },
+  {
+    "id": "/read-manga/fist_of_the_seeker/",
+    "title": "Fist of the Seeker"
+  },
+  {
+    "id": "/read-manga/useless_princesses/",
+    "title": "Useless Princesses"
+  },
+  {
+    "id": "/read-manga/game_obu_familia_family_senki/",
+    "title": "Game obu Familia – Family Senki"
+  },
+  {
+    "id": "/read-manga/wanzhang_guangmang_buji_ni/",
+    "title": "Wanzhang guangmang buji ni"
+  },
+  {
+    "id": "/read-manga/shaman_king_red_crimson/",
+    "title": "Shaman King: Red Crimson"
+  },
+  {
+    "id": "/read-manga/the_ghostly_doctor/",
+    "title": "The Ghostly Doctor"
+  },
+  {
+    "id": "/read-manga/ore_no_oniku_chan/",
+    "title": "Ore no Oniku-chan"
+  },
+  {
+    "id": "/read-manga/the_night_crow/",
+    "title": "The Night Crow"
+  },
+  {
+    "id": "/read-manga/douyara_watashi_no_karada_wa_kanzen_muteki_no_you_desu_ne/",
+    "title": "Douyara Watashi No Karada Wa Kanzen Muteki No You Desu Ne"
+  },
+  {
+    "id": "/read-manga/yamada_s_life_as_a_lazy_youtuber/",
+    "title": "Yamada's Life as a Lazy Youtuber"
+  },
+  {
+    "id": "/read-manga/transmigration_journal_the_making_of_a_star/",
+    "title": "Transmigration Journal : The making of a Star"
+  },
+  {
+    "id": "/read-manga/descent_of_a_goddess/",
+    "title": "Descent of a Goddess"
+  },
+  {
+    "id": "/read-manga/chikanoko/",
+    "title": "Chikanoko"
+  },
+  {
+    "id": "/read-manga/captured_by_his_eyes/",
+    "title": "Captured by His Eyes"
+  },
+  {
+    "id": "/read-manga/drawing_armoury/",
+    "title": "Drawing Armoury"
+  },
+  {
+    "id": "/read-manga/i_am_a_unicorn/",
+    "title": "I Am a Unicorn"
+  },
+  {
+    "id": "/read-manga/maou_ni_natta_node_dungeon_tsukutte_jingai_musume_to_honobono_suru/",
+    "title": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru"
+  },
+  {
+    "id": "/read-manga/take_my_first_time/",
+    "title": "Take My First Time!"
+  },
+  {
+    "id": "/read-manga/peach_boy_riverside/",
+    "title": "Peach Boy Riverside"
+  },
+  {
+    "id": "/read-manga/touken_ranbu_anthology_uijin/",
+    "title": "Touken Ranbu Anthology - Uijin"
+  },
+  {
+    "id": "/read-manga/peerless_dad/",
+    "title": "Peerless Dad"
+  },
+  {
+    "id": "/read-manga/hogu_hagyeongsu/?av=2",
+    "title": "Hogu Hagyeongsu"
+  },
+  {
+    "id": "/read-manga/burn_the_witch/",
+    "title": "Burn The Witch"
+  },
+  {
+    "id": "/read-manga/rakka/",
+    "title": "Rakka"
+  },
+  {
+    "id": "/read-manga/birth_of_evil/",
+    "title": "Birth of Evil"
+  },
+  {
+    "id": "/read-manga/super_dragon_ball_heroes_dark_demon_realm_mission/",
+    "title": "Super Dragon Ball Heroes: Dark Demon Realm Mission!"
+  },
+  {
+    "id": "/read-manga/the_treasured_sakura_tome/",
+    "title": "The Treasured Sakura Tome"
+  },
+  {
+    "id": "/read-manga/kanojo_wa_otou_san/",
+    "title": "Kanojo wa Otou-san"
+  },
+  {
+    "id": "/read-manga/grand_blues/",
+    "title": "Grand Blues!"
+  },
+  {
+    "id": "/read-manga/danshiryou_no_omocha/",
+    "title": "Danshiryou no Omocha"
+  },
+  {
+    "id": "/read-manga/reincarnation_mayama_rika/",
+    "title": "Reincarnation (MAYAMA Rika)"
+  },
+  {
+    "id": "/read-manga/nichiyoubi_ni_pound_cake/",
+    "title": "Nichiyoubi ni Pound Cake"
+  },
+  {
+    "id": "/read-manga/make_me_bark/?av=2",
+    "title": "Make Me Bark"
+  },
+  {
+    "id": "/read-manga/gyeoggi_3_ban/",
+    "title": "Gyeoggi 3 Ban"
+  },
+  {
+    "id": "/read-manga/snow_white_bl/",
+    "title": "Snow White BL"
+  },
+  {
+    "id": "/read-manga/otaku_god/",
+    "title": "Otaku God"
+  },
+  {
+    "id": "/read-manga/a_small_imaginative_league_of_legends_slice_of_life/",
+    "title": "A Small Imaginative League of Legends Slice of Life"
+  },
+  {
+    "id": "/read-manga/suki_ni_nattara_dame_desu_ka/",
+    "title": "Suki ni Nattara Dame desu ka?"
+  },
+  {
+    "id": "/read-manga/300_beats_per_second/",
+    "title": "300 Beats Per Second"
+  },
+  {
+    "id": "/read-manga/k_on_shuffle/",
+    "title": "K-ON! Shuffle"
+  },
+  {
+    "id": "/read-manga/how_sweet_is_a_sugar_daddy/?av=1",
+    "title": "How Sweet is a Sugar Daddy"
+  },
+  {
+    "id": "/read-manga/from_points_of_three/?av=2",
+    "title": "From Points of Three"
+  },
+  {
+    "id": "/read-manga/love_is_an_illusion/?av=2",
+    "title": "Love Is An Illusion"
+  },
+  {
+    "id": "/read-manga/royal_servant/?av=1",
+    "title": "Royal Servant"
+  },
+  {
+    "id": "/read-manga/my_dead_boyfriend_came_back_as_a_high_school_girl/",
+    "title": "My Dead Boyfriend Came Back as a High School Girl"
+  },
+  {
+    "id": "/read-manga/promise_of_gymnasium/",
+    "title": "Promise of Gymnasium"
+  },
+  {
+    "id": "/read-manga/i_love_you_get_it_across/",
+    "title": "‘I Love You!’ Get It Across!"
+  },
+  {
+    "id": "/read-manga/strike_witches_erica_hartmann_1941/",
+    "title": "Strike Witches - Erica Hartmann 1941"
+  },
+  {
+    "id": "/read-manga/saikyou_no_kurokishi_sentou_maid_ni_tenshoku_shimashita/",
+    "title": "Saikyou no Kurokishi♂, Sentou Maid♀ ni Tenshoku shimashita"
+  },
+  {
+    "id": "/read-manga/a_guide_to_proper_dating/",
+    "title": "A Guide to Proper Dating"
+  },
+  {
+    "id": "/read-manga/tenju_no_kuni/",
+    "title": "Tenju no Kuni"
+  },
+  {
+    "id": "/read-manga/fragile_relationship/",
+    "title": "Fragile Relationship"
+  },
+  {
+    "id": "/read-manga/earthly_paradise/",
+    "title": "Earthly Paradise"
+  },
+  {
+    "id": "/read-manga/afureru_namida_o_nomikondanara/",
+    "title": "Afureru Namida o Nomikondanara"
+  },
+  {
+    "id": "/read-manga/let_s_be_perverts/",
+    "title": "Let's Be Perverts"
+  },
+  {
+    "id": "/read-manga/tied_up_in_twins/?av=2",
+    "title": "Tied Up In Twins"
+  },
+  {
+    "id": "/read-manga/bj_alex/?av=2",
+    "title": "BJ alex"
+  },
+  {
+    "id": "/read-manga/momiji_no_kisetsu/",
+    "title": "Momiji no Kisetsu"
+  },
+  {
+    "id": "/read-manga/kimi_wo_shinryakuseyo/",
+    "title": "Kimi wo Shinryakuseyo!"
+  },
+  {
+    "id": "/read-manga/stop_the_world/",
+    "title": "Stop The World"
+  },
+  {
+    "id": "/read-manga/the_idolm_ster_am_i_just_a_sugar_baby_to_you_director_doujinshi/",
+    "title": "THE iDOLM@STER - Am I Just a Sugar Baby to You, Director?! (Doujinshi)"
+  },
+  {
+    "id": "/read-manga/the_idolm_ster_your_melody_my_melody_doujinshi/",
+    "title": "THE iDOLM@STER - Your Melody, My Melody (Doujinshi)"
+  },
+  {
+    "id": "/read-manga/horion/",
+    "title": "HORION"
+  },
+  {
+    "id": "/read-manga/chevaliere/",
+    "title": "Chevaliere"
+  },
+  {
+    "id": "/read-manga/my_sister_extra/",
+    "title": "My Sister Extra"
+  },
+  {
+    "id": "/read-manga/the_idolm_ster_i_want_to_cut_uzuki_shimamura_doujinshi/",
+    "title": "THE iDOLM@STER - I Want to Cut Uzuki Shimamura... (Doujinshi)"
+  },
+  {
+    "id": "/read-manga/the_feelings_of_a_girl_with_sanpaku_eyes/",
+    "title": "The Feelings of a Girl with Sanpaku Eyes"
+  },
+  {
+    "id": "/read-manga/work_fight_and_love/?av=2",
+    "title": "Work, Fight and Love"
+  },
+  {
+    "id": "/read-manga/somewhere_in_time/",
+    "title": "Somewhere In Time"
+  },
+  {
+    "id": "/read-manga/my_darling_signed_in/?av=2",
+    "title": "My Darling Signed In"
+  },
+  {
+    "id": "/read-manga/shoujo_kageki_revue_starlight_overture/",
+    "title": "Shoujo☆Kageki Revue Starlight Overture"
+  },
+  {
+    "id": "/read-manga/stalker_jokers/",
+    "title": "Stalker Jokers"
+  },
+  {
+    "id": "/read-manga/the_lady_and_her_butler/?av=2",
+    "title": "The Lady and Her Butler"
+  },
+  {
+    "id": "/read-manga/momentum_park_ji_yeon/?av=1",
+    "title": "Momentum"
+  },
+  {
+    "id": "/read-manga/lover_boy_lezhin/?av=3",
+    "title": "Lover Boy"
+  },
+  {
+    "id": "/read-manga/story_about_ol_san_picking_up_a_cat/",
+    "title": "Story about OL-san Picking up a Cat"
+  },
+  {
+    "id": "/read-manga/the_chronicle_of_teenage_boys/",
+    "title": "The Chronicle Of Teenage Boys"
+  },
+  {
+    "id": "/read-manga/unparelleled/",
+    "title": "Unparelleled"
+  },
+  {
+    "id": "/read-manga/in_the_room/",
+    "title": "In the Room"
+  },
+  {
+    "id": "/read-manga/haunted_room/",
+    "title": "Haunted Room"
+  },
+  {
+    "id": "/read-manga/osananajimi_wa_boku_no_hero/",
+    "title": "Osananajimi wa boku no hero!"
+  },
+  {
+    "id": "/read-manga/isekai_transporter/",
+    "title": "Isekai Transporter"
+  },
+  {
+    "id": "/read-manga/killing_stalking/?av=2",
+    "title": "Killing Stalking"
+  },
+  {
+    "id": "/read-manga/nadeshiko_doremisora/",
+    "title": "Nadeshiko Doremisora"
+  },
+  {
+    "id": "/read-manga/martial_art_successor/",
+    "title": "Martial Art Successor"
+  },
+  {
+    "id": "/read-manga/ka_ku_shi_go_to/",
+    "title": "Ka「」Ku「」Shi「」Go「」To「"
+  },
+  {
+    "id": "/read-manga/the_skin_painter/",
+    "title": "The Skin Painter"
+  },
+  {
+    "id": "/read-manga/assassin_de_aru_ore_no_sutetasu_ga_yuusha_yori_mo_akiraka_ni_tsuyoi_nodaga/",
+    "title": "Assassin de aru ore no Sutetasu ga Yuusha yori mo Akiraka ni Tsuyoi Nodaga"
+  },
+  {
+    "id": "/read-manga/heesu_in_class_2/?av=1",
+    "title": "Heesu in Class 2"
+  },
+  {
+    "id": "/read-manga/jichou_shinai_motoyuusha_no_tsuyokute_tanoshii_new_game/",
+    "title": "Jichou shinai Motoyuusha no Tsuyokute Tanoshii New Game"
+  },
+  {
+    "id": "/read-manga/angel_s_tears/",
+    "title": "Angel's Tears"
+  },
+  {
+    "id": "/read-manga/motto_hanjuku_joshi/",
+    "title": "Motto Hanjuku Joshi"
+  },
+  {
+    "id": "/read-manga/yuri_on_ice_dj_waiting_for_love/",
+    "title": "Yuri!!! on Ice dj: Waiting for Love"
+  },
+  {
+    "id": "/read-manga/ai_mo_kawarazu/",
+    "title": "Ai mo Kawarazu"
+  },
+  {
+    "id": "/read-manga/to_die_in_june_one/",
+    "title": "To Die In June"
+  },
+  {
+    "id": "/read-manga/haritoge_kuremi_to_ou_no_ie/",
+    "title": "Haritoge Kuremi to Ou no Ie"
+  },
+  {
+    "id": "/read-manga/sweet_guy_and_delinquent_girlfriend/",
+    "title": "Sweet Guy and Delinquent Girlfriend"
+  },
+  {
+    "id": "/read-manga/koushin_koinu_ni_koibumi_wo/",
+    "title": "Koushin Koinu Ni Koibumi Wo"
+  },
+  {
+    "id": "/read-manga/maou_sama_to_kekkonshitai/",
+    "title": "Maou-sama to Kekkonshitai"
+  },
+  {
+    "id": "/read-manga/you_make_me_swoon/",
+    "title": "You Make Me Swoon"
+  },
+  {
+    "id": "/read-manga/someone_s_laughing_outside_the_room/",
+    "title": "Someone's Laughing Outside the Room"
+  },
+  {
+    "id": "/read-manga/deception/",
+    "title": "Deception"
+  },
+  {
+    "id": "/read-manga/a_sea_of_conflicts/",
+    "title": "A Sea of Conflicts"
+  },
+  {
+    "id": "/read-manga/dream_land_yoshida_yuuko/",
+    "title": "Dream Land (YOSHIDA Yuuko)"
+  },
+  {
+    "id": "/read-manga/ring_ring_tanuki/",
+    "title": "Ring Ring Tanuki"
+  },
+  {
+    "id": "/read-manga/number_with_you/",
+    "title": "Number With You"
+  },
+  {
+    "id": "/read-manga/a_love_contract_with_the_devil/",
+    "title": "A Love Contract with the Devil"
+  },
+  {
+    "id": "/read-manga/secret_one_room/",
+    "title": "Secret One Room"
+  },
+  {
+    "id": "/read-manga/the_beauty_and_the_beast/",
+    "title": "the beauty and the beast"
+  },
+  {
+    "id": "/read-manga/shower_me_in_a_thousand_kisses/",
+    "title": "Shower Me in a Thousand Kisses"
+  },
+  {
+    "id": "/read-manga/kidou_senshi_gundam_uc_unicorn_bande_dessin_e_episode_0/",
+    "title": "Kidou Senshi Gundam UC (Unicorn) - Bande Dessinée: Episode 0"
+  },
+  {
+    "id": "/read-manga/minzoku_tsugai_no_unmei_to_okite_anthology/",
+    "title": "Minzoku - Tsugai no Unmei to Okite (Anthology)"
+  },
+  {
+    "id": "/read-manga/my_love_for_sayuri/",
+    "title": "My Love For Sayuri"
+  },
+  {
+    "id": "/read-manga/my_d_n_a_girlfriend/",
+    "title": "My D.N.A. Girlfriend"
+  },
+  {
+    "id": "/read-manga/7_wonders/",
+    "title": "7 Wonders"
+  },
+  {
+    "id": "/read-manga/hinekure_chaser_dj_research_lab_x_expression/",
+    "title": "Hinekure Chaser dj - research lab x expression"
+  },
+  {
+    "id": "/read-manga/houkai_3rd_special_issue/",
+    "title": "Houkai 3rd - Special Issue"
+  },
+  {
+    "id": "/read-manga/honkai_impact_3rd_mystery_of_stigmata/",
+    "title": "Honkai Impact 3rd - Mystery of Stigmata"
+  },
+  {
+    "id": "/read-manga/when_night_falls/",
+    "title": "When Night Falls"
+  },
+  {
+    "id": "/read-manga/onna_no_buki_ga_tsukaete_koso_otoko_no_ko_desu/",
+    "title": "Onna no Buki ga Tsukaete Koso Otoko no Ko Desu."
+  },
+  {
+    "id": "/read-manga/my_harem_isn_t_what_i_expected/",
+    "title": "My Harem Isn't What I Expected"
+  },
+  {
+    "id": "/read-manga/the_star_with_1000_faces/",
+    "title": "The star with 1000 faces"
+  },
+  {
+    "id": "/read-manga/dignified_asleep_saeki/",
+    "title": "Dignified asleep SAEKI"
+  },
+  {
+    "id": "/read-manga/mindlessness_for_a_thousand_years/",
+    "title": "Mindlessness for a thousand years"
+  },
+  {
+    "id": "/read-manga/cute_flower/",
+    "title": "Cute Flower"
+  },
+  {
+    "id": "/read-manga/she_s_coming_tonight/",
+    "title": "She’s coming tonight"
+  },
+  {
+    "id": "/read-manga/with_cat/",
+    "title": "with CAT"
+  },
+  {
+    "id": "/read-manga/multiplying_wives_a_fairy_tale/",
+    "title": "Multiplying Wives - A Fairy Tale"
+  },
+  {
+    "id": "/read-manga/the_honor_student_at_magic_high_school/",
+    "title": "The Honor Student at Magic High School"
+  },
+  {
+    "id": "/read-manga/the_last_human/",
+    "title": "The Last Human"
+  },
+  {
+    "id": "/read-manga/aikatsu_color_wide_comics/",
+    "title": "Aikatsu! - Color Wide Comics"
+  },
+  {
+    "id": "/read-manga/kamiki_kyoudai_okotowari/",
+    "title": "Kamiki Kyoudai Okotowari"
+  },
+  {
+    "id": "/read-manga/yuri_on_ice_dj_koko_ni_ai_ga_aru_nara/",
+    "title": "Yuri!!! on Ice dj: Koko ni ai ga aru nara"
+  },
+  {
+    "id": "/read-manga/love_is_too_early_for_us/",
+    "title": "Love is too Early for us"
+  },
+  {
+    "id": "/read-manga/devil_drop/?av=1",
+    "title": "Devil Drop"
+  },
+  {
+    "id": "/read-manga/batsu_ichi_jk/",
+    "title": "Batsu Ichi JK"
+  },
+  {
+    "id": "/read-manga/can_t_take_my_eyes_off_you/?av=2",
+    "title": "Can't take my eyes off you"
+  },
+  {
+    "id": "/read-manga/the_boy_in_the_all_girls_school/",
+    "title": "The Boy in the All-Girls School"
+  },
+  {
+    "id": "/read-manga/angel_s_drop/",
+    "title": "Angel's Drop"
+  },
+  {
+    "id": "/read-manga/yajima_kun_no_sezonku_friend/",
+    "title": "Yajima-kun no sezonku friend"
+  },
+  {
+    "id": "/read-manga/miho_s_tale/",
+    "title": "Miho's Tale"
+  },
+  {
+    "id": "/read-manga/dress_him_up/?av=2",
+    "title": "Dress Him Up"
+  },
+  {
+    "id": "/read-manga/white_noon_black_night/",
+    "title": "White Noon, Black Night"
+  },
+  {
+    "id": "/read-manga/demons_harem/",
+    "title": "Demons Harem"
+  },
+  {
+    "id": "/read-manga/ponkotsu_hero_eileen/",
+    "title": "Ponkotsu Hero Eileen"
+  },
+  {
+    "id": "/read-manga/aqua_blue_cotton/",
+    "title": "Aqua Blue Cotton"
+  },
+  {
+    "id": "/read-manga/artifact_101/",
+    "title": "Artifact 101"
+  },
+  {
+    "id": "/read-manga/musician_swordsman_one_shot/",
+    "title": "Musician Swordsman-One Shot"
+  },
+  {
+    "id": "/read-manga/crackling_palms/",
+    "title": "Crackling Palms"
+  },
+  {
+    "id": "/read-manga/look_my_way/",
+    "title": "Look My Way"
+  },
+  {
+    "id": "/read-manga/naruto_dj_summer_festival/",
+    "title": "Naruto dj: Summer Festival"
+  },
+  {
+    "id": "/read-manga/loplop/",
+    "title": "Loplop"
+  },
+  {
+    "id": "/read-manga/see_you_agai/?av=3",
+    "title": "See You Again"
+  },
+  {
+    "id": "/read-manga/delusion/",
+    "title": "Delusion"
+  },
+  {
+    "id": "/read-manga/armitage_iii/",
+    "title": "Armitage III"
+  },
+  {
+    "id": "/read-manga/notevil/",
+    "title": "NotEvil!"
+  },
+  {
+    "id": "/read-manga/kamisama_to_toberanai_tsukai/",
+    "title": "Kamisama to Toberanai Tsukai"
+  },
+  {
+    "id": "/read-manga/harumination/",
+    "title": "Harumination"
+  },
+  {
+    "id": "/read-manga/talk_to_me/?av=1",
+    "title": "Talk To Me"
+  },
+  {
+    "id": "/read-manga/red_shisa/?av=1",
+    "title": "Red Shisa"
+  },
+  {
+    "id": "/read-manga/lord_of_the_rings_dj_the_bluest_eve/",
+    "title": "Lord of the Rings dj: The Bluest Eve"
+  },
+  {
+    "id": "/read-manga/toumei_ni_kuchiduke/",
+    "title": "Toumei ni Kuchiduke"
+  },
+  {
+    "id": "/read-manga/a_man_like_you/?av=3",
+    "title": "A Man Like You"
+  },
+  {
+    "id": "/read-manga/virtual_youtuber_kizuna_ai_official_comic_anthology/",
+    "title": "Virtual YouTuber Kizuna AI Official Comic Anthology"
+  },
+  {
+    "id": "/read-manga/liv/",
+    "title": "Liv"
+  },
+  {
+    "id": "/read-manga/not_boyfriends_yet/?av=2",
+    "title": "Not Boyfriends Yet"
+  },
+  {
+    "id": "/read-manga/jazz_for_two/?av=2",
+    "title": "Jazz for two"
+  },
+  {
+    "id": "/read-manga/cherry_blossoms_after_winter/?av=4",
+    "title": "Cherry Blossoms After Winter"
+  },
+  {
+    "id": "/read-manga/curious_recipe/?av=2",
+    "title": "Curious Recipe"
+  },
+  {
+    "id": "/read-manga/what_does_the_fox_say/?av=2",
+    "title": "What Does The Fox Say?"
+  },
+  {
+    "id": "/read-manga/roommates_young_seok/?av=2",
+    "title": "Roommates (Young Seok)"
+  },
+  {
+    "id": "/read-manga/pulse_ratana_satis/?av=3",
+    "title": "Pulse (ratana Satis)"
+  },
+  {
+    "id": "/read-manga/the_next_door_neighbor/?av=3",
+    "title": "The Next Door Neighbor"
+  },
+  {
+    "id": "/read-manga/imitation_park_kyung_ran/?av=3",
+    "title": "Imitation (park Kyung-ran)"
+  },
+  {
+    "id": "/read-manga/never_understand/?av=2",
+    "title": "Never Understand"
+  },
+  {
+    "id": "/read-manga/you_got_me_sempai/",
+    "title": "You Got Me, Sempai!"
+  },
+  {
+    "id": "/read-manga/b_oundless/",
+    "title": "B​oundless"
+  },
+  {
+    "id": "/read-manga/gaikou_kakkaku/",
+    "title": "Gaikou Kakkaku"
+  },
+  {
+    "id": "/read-manga/yurikon/",
+    "title": "Yurikon"
+  },
+  {
+    "id": "/read-manga/umi_de_hirotta_kimi_ni_sasagu/",
+    "title": "Umi de Hirotta Kimi ni Sasagu"
+  },
+  {
+    "id": "/read-manga/gentlefolk_queen/",
+    "title": "Gentlefolk Queen"
+  },
+  {
+    "id": "/read-manga/my_phoenix_s_on_top/",
+    "title": "My phoenix's on top"
+  },
+  {
+    "id": "/read-manga/from_the_moon_to_the_stars/",
+    "title": "From the moon to the stars"
+  },
+  {
+    "id": "/read-manga/the_dream_i_had_when_i_died/",
+    "title": "The Dream I Had When I Died"
+  },
+  {
+    "id": "/read-manga/dance_in_the_vampire_bund_a_s_o/",
+    "title": "Dance in the Vampire Bund A.S.O."
+  },
+  {
+    "id": "/read-manga/motomete_yamanai/",
+    "title": "Motomete Yamanai"
+  },
+  {
+    "id": "/read-manga/houkago_no_goumon_shoujo/",
+    "title": "Houkago no Goumon Shoujo"
+  },
+  {
+    "id": "/read-manga/val/",
+    "title": "Val"
+  },
+  {
+    "id": "/read-manga/rose_guns_days_season_2/",
+    "title": "Rose Guns Days: Season 2"
+  },
+  {
+    "id": "/read-manga/pandamic/",
+    "title": "Pandamic"
+  },
+  {
+    "id": "/read-manga/shokugeki_no_sanji/",
+    "title": "Shokugeki no Sanji"
+  },
+  {
+    "id": "/read-manga/dragon_and_the_phoenix/",
+    "title": "Dragon and the Phoenix"
+  },
+  {
+    "id": "/read-manga/capture_manhwa/",
+    "title": "Capture"
+  },
+  {
+    "id": "/read-manga/nekogahara_stray_cat_samurai/",
+    "title": "Nekogahara: Stray Cat Samurai"
+  },
+  {
+    "id": "/read-manga/behind_the_scenes_monologue/",
+    "title": "Behind the Scenes(monologue)"
+  },
+  {
+    "id": "/read-manga/boundary_apocalypse/",
+    "title": "Boundary Apocalypse"
+  },
+  {
+    "id": "/read-manga/kedamono_arashi/",
+    "title": "Kedamono Arashi"
+  },
+  {
+    "id": "/read-manga/girls_last_tour_official_anthology_comic/",
+    "title": "Girls' Last Tour Official Anthology Comic"
+  },
+  {
+    "id": "/read-manga/hahri_s_lumpy_star/",
+    "title": "Hahri's Lumpy Star"
+  },
+  {
+    "id": "/read-manga/nyotaika_plus_kanojo/",
+    "title": "Nyotaika Plus Kanojo"
+  },
+  {
+    "id": "/read-manga/my_junior_is_too_cute_that_i_can_t_decline/",
+    "title": "My junior is too cute that I can't decline"
+  },
+  {
+    "id": "/read-manga/zanki_x_99/",
+    "title": "Zanki x 99"
+  },
+  {
+    "id": "/read-manga/togetoge/",
+    "title": "Togetoge"
+  },
+  {
+    "id": "/read-manga/inspector_kurok_chi/",
+    "title": "Inspector Kurokôchi"
+  },
+  {
+    "id": "/read-manga/sensei_hakusho/",
+    "title": "Sensei Hakusho"
+  },
+  {
+    "id": "/read-manga/angel_fusion/",
+    "title": "Angel Fusion"
+  },
+  {
+    "id": "/read-manga/a_cat_like_girl/",
+    "title": "A Cat-Like Girl"
+  },
+  {
+    "id": "/read-manga/manga_de_yomu_genji_monogatari/",
+    "title": "Manga de Yomu Genji Monogatari"
+  },
+  {
+    "id": "/read-manga/shin_no_nakama_janai_to_yuusha_no_party_wo_oidasareta_node_henkyou_de_slow_life_suru_koto_ni_shimashita/",
+    "title": "Shin no Nakama janai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni shimashita"
+  },
+  {
+    "id": "/read-manga/dragon_ball_101/",
+    "title": "Dragon Ball 101 (Doujinshi)"
+  },
+  {
+    "id": "/read-manga/isekai_rakugo/",
+    "title": "Isekai Rakugo"
+  },
+  {
+    "id": "/read-manga/tobakushi_wa_inoranai/",
+    "title": "Tobakushi wa Inoranai"
+  },
+  {
+    "id": "/read-manga/anima_yell/",
+    "title": "Anima Yell!"
+  },
+  {
+    "id": "/read-manga/jumping_over/",
+    "title": "Jumping Over"
+  },
+  {
+    "id": "/read-manga/jinrouki_winvurga/",
+    "title": "Jinrouki Winvurga"
+  },
+  {
+    "id": "/read-manga/namidaame_to_serenade/",
+    "title": "Namidaame to Serenade"
+  },
+  {
+    "id": "/read-manga/neo_parasyte_m/",
+    "title": "Neo Parasyte m"
+  },
+  {
+    "id": "/read-manga/munchkin_quest/",
+    "title": "Munchkin Quest"
+  },
+  {
+    "id": "/read-manga/what_lies_ahead_of_a_tumbling_rock/",
+    "title": "What Lies Ahead of a Tumbling Rock"
+  },
+  {
+    "id": "/read-manga/haikyuu_dj_tasogare_no_akatasuki_no/",
+    "title": "Haikyuu!! dj: Tasogare no Akatasuki no"
+  },
+  {
+    "id": "/read-manga/mu/",
+    "title": "MU"
   }
 ]

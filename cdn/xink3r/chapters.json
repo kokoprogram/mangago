@@ -1,0 +1,734 @@
+[
+  {
+    "id": "m_chapter-121",
+    "title": "Ch.121  : Pattern Recognition",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-120",
+    "title": "Ch.120  : The Power of Code",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "mk_chapter-119",
+    "title": "Ch.119",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "mk_chapter-118",
+    "title": "Ch.118",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-117",
+    "title": "Ch.117  : 0X74 Investigation",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-116",
+    "title": "Ch.116  : 0X73 Partner",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-115",
+    "title": "Ch.115  : 0X72 Reverse tracking",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "mk_chapter-114",
+    "title": "Ch.114",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "mk_chapter-113",
+    "title": "Ch.113",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "mk_chapter-112",
+    "title": "Ch.112",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-111",
+    "title": "Ch.111  : 0X6E Ranking",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-110",
+    "title": "Ch.110  : 0X6D Registration complete",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-109",
+    "title": "Ch.109  : 0X6C Liberation",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-108",
+    "title": "Ch.108  : 0X6B The Day Before",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-107",
+    "title": "Ch.107  : 0X6A Orientation",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-106",
+    "title": "Ch.106  : 0X69 Apology",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-105",
+    "title": "Ch.105  : 0X68 Untitled",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-104",
+    "title": "Ch.104  : 0X67 Awakening",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-103",
+    "title": "Ch.103  : 0X66 Smile",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-102",
+    "title": "Ch.102  : 0X65 A certain principle",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-101",
+    "title": "Ch.101  : 0X64 Waterfall",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-100",
+    "title": "Ch.100  : 0X63 Dash bolt",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-99",
+    "title": "Ch.99  : 0X62 Weak Spot",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-98",
+    "title": "Ch.98  : 0X61 Pripyat",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-97",
+    "title": "Ch.97  : 0X60 The list",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_chapter-96",
+    "title": "Ch.96  : 0X5F Climb the wall",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c095",
+    "title": "Ch.95",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "hs_chapter-94",
+    "title": "Ch.94",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c093",
+    "title": "Ch.93",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "hs_chapter-92",
+    "title": "Ch.92",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c091",
+    "title": "Ch.91",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c090",
+    "title": "Ch.90",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c089",
+    "title": "Ch.89",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "hs_chapter-88",
+    "title": "Ch.88",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c087",
+    "title": "Ch.87",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c086",
+    "title": "Ch.86",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c085",
+    "title": "Ch.85",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c084",
+    "title": "Ch.84",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c083",
+    "title": "Ch.83",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c082",
+    "title": "Ch.82",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c081",
+    "title": "Ch.81",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c080",
+    "title": "Ch.80",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c079",
+    "title": "Ch.79",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c078",
+    "title": "Ch.78",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c077",
+    "title": "Ch.77",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c076",
+    "title": "Ch.76",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c075",
+    "title": "Ch.75",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c074",
+    "title": "Ch.74",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c073",
+    "title": "Ch.73",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c072",
+    "title": "Ch.72",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c071",
+    "title": "Ch.71",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c070",
+    "title": "Ch.70",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c069",
+    "title": "Ch.69",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c068",
+    "title": "Ch.68",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c067",
+    "title": "Ch.67",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c066",
+    "title": "Ch.66",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c065",
+    "title": "Ch.65",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c064",
+    "title": "Ch.64",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c063",
+    "title": "Ch.63",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c062",
+    "title": "Ch.62",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c061",
+    "title": "Ch.61",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c060",
+    "title": "Ch.60",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c059",
+    "title": "Ch.59",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c058",
+    "title": "Ch.58",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c057",
+    "title": "Ch.57",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c056",
+    "title": "Ch.56",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c055",
+    "title": "Ch.55",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c054",
+    "title": "Ch.54",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c053",
+    "title": "Ch.53",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c052",
+    "title": "Ch.52",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c051",
+    "title": "Ch.51",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c050",
+    "title": "Ch.50",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c049",
+    "title": "Ch.49",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c048",
+    "title": "Ch.48",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c047",
+    "title": "Ch.47",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c046",
+    "title": "Ch.46",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c045",
+    "title": "Ch.45",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c044",
+    "title": "Ch.44  : 0x2C_Neuronbot (3) (4)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c043",
+    "title": "Ch.43  : 0x2B_Neuronbot (2)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c042",
+    "title": "Ch.42  : 0x2A_Neuronbot (1)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c041",
+    "title": "Ch.41  : 0x29_Thinker Project (4)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c040",
+    "title": "Ch.40  : 0x28_Thinker Project (3)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c039",
+    "title": "Ch.39  : 0x27_Thinker Project (2)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c038",
+    "title": "Ch.38  : 0x26_Thinker Project (1)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c037",
+    "title": "Ch.37  : 0x25_Logic Bomb (12)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c036",
+    "title": "Ch.36  : 0x24_Logic Bomb (11)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c035",
+    "title": "Ch.35  : 0x23_Logic Bomb (10)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c034",
+    "title": "Ch.34  : 0x212_Logic Bomb (9)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c033",
+    "title": "Ch.33  : 0x21_Logic Bomb (8)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c032",
+    "title": "Ch.32  : 0x20_Logic Bomb (7)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c031",
+    "title": "Ch.31  : 0x1F_Logic Bomb (6)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c030",
+    "title": "Ch.30  : 0x1E_Logic Bomb (5)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c029",
+    "title": "Ch.29  : 0x1D_Logic Bomb (4)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c028",
+    "title": "Ch.28  : 0x1C_Logic Bomb (3)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c027",
+    "title": "Ch.27  : 0x1B_Logic Bomb (2)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c026",
+    "title": "Ch.26  : 0x1A_Logic Bomb (1)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c025",
+    "title": "Ch.25  : Code Master (7)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c024",
+    "title": "Ch.24  : Code Master (6)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c023",
+    "title": "Ch.23  : Code Master (5)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c022",
+    "title": "Ch.22  : Code Master (4)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c021",
+    "title": "Ch.21  : Code Master (3)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c020",
+    "title": "Ch.20  : Code Master (2)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c019",
+    "title": "Ch.19  : Code Master (1)",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c018",
+    "title": "Ch.18  : OxO12 - Who Am I",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c017",
+    "title": "Ch.17  : Wifi",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c016",
+    "title": "Ch.16  : Crossroads",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c015",
+    "title": "Ch.15  : New Paths",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c014",
+    "title": "Ch.14  : Surveillance",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c013",
+    "title": "Ch.13  : Heading to School",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c012",
+    "title": "Ch.12  : OxOC - The Survivor",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c011",
+    "title": "Ch.11  : OxOB - ESP",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c010",
+    "title": "Ch.10  : OxOA - A New World",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c009",
+    "title": "Ch.9  : 0x09 - Transformation",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c008",
+    "title": "Ch.8  : Server Down",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c007",
+    "title": "Ch.7  : Data Center",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c006",
+    "title": "Ch.6  : The Conscience of A Hacker",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c005",
+    "title": "Ch.5  : 0x05 - Algorithm",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c004",
+    "title": "Ch.4",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c003",
+    "title": "Ch.3",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c002",
+    "title": "Ch.2",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c001",
+    "title": "Ch.1",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "c000",
+    "title": "Ch.0  : 0x00",
+    "language": "en",
+    "scanlator": ""
+  }
+]
