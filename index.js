@@ -8,7 +8,7 @@ var pageFrom = ( process.argv.length > 2 ? process.argv[2] : 1 );
 var pageTo = ( process.argv.length > 3 ? process.argv[3] : 9999 );
 var pageFrom = parseInt( pageFrom ) || 1;
 var pageTo = parseInt( pageTo ) || 9999;
-var updateLimit = 750;//undefined
+var updateLimit = 2500;//undefined
 
 var chapterDelay = 0;
 var pageDelay = 0;
