@@ -59,7 +59,7 @@ function createDirectoryChain( dir ) {
  */
 function saveFileJSON( file, content, callback ) {
     createDirectoryChain( path.dirname( file ) );
-    fs.writeFile( file, content, 'utf-8', ( error ) => {
+    fs.writeFile( file, JSON.stringify( content, null, 2 ), 'utf-8', ( error ) => {
         if( error ) {
             console.error( error.message );
         }
@@ -86,7 +86,7 @@ function saveMangaListWeb( mangaListWeb ) {
         return ( !mangaListDB.find( mangaDB => mangaDB.id === mangaWeb.id ) );
     } );
     mangas = mangaListDB.concat( mangas );
-    saveFileJSON( `./cdn/mangas.json`, JSON.stringify( mangas, null, 2 ) );
+    saveFileJSON( `./cdn/mangas.json`, mangas );
 }
 
 /**
@@ -106,7 +106,7 @@ function saveChapterListWeb( mangaWeb, chapterListWeb ) {
             number: chapter.n
         };
     } );
-    saveFileJSON( `./cdn/${ mangaIdenifier( mangaWeb.u ) }/chapters.json`, JSON.stringify( chapters, null, 2 ) );
+    saveFileJSON( `./cdn/${ mangaIdenifier( mangaWeb.u ) }/chapters.json`, chapters );
 }
 
 /**
@@ -121,34 +121,16 @@ function chapterExist( file ) {
     }
 }
 
-/**
- * Updates the report.
- * Return values:
- *   unable validate => undefined
- *   order valid => true
- *   order invalid => false
- * @param {*} links 
- */
-function validatePageOrder( links ) {
+function updateReport( validation ) {
     report.overall++;
-    if( !links.find( link => link.match( /\/00[1-9]\.[a-z]{3,4}$/ ) ) ) {
-        return undefined;
-    }
-    report.validated++;
-    let shuffled = links
-    .filter( link => link.indexOf( '/cspiclink/' ) === -1 )
-    .map( link => link.split( '/' ).pop() );
-    if( shuffled.join( ',' ) === shuffled.sort().join( ',' ) ) {
+    if( validation === true ) {
+        report.validated++;
         report.valid++;
-        return true;
-    } else {
-        report.invalid++;
-        return false;
     }
-}
-
-function sendReport() {
-    console.log( report );
+    if( validation === false ) {
+        report.validated++;
+        report.invalid++;
+    }
 }
 
 /**
@@ -173,12 +155,12 @@ function syncChapters( mangaWeb, chapterListWeb, callback, chapterIndex ) {
         return;
     }
     // get pages from web
-    connector.getPages( chapterWeb, function( error, pageListWeb ) {
+    connector.getPages( chapterWeb, function( error, validation, pageListWeb ) {
         if( !error && pageListWeb && pageListWeb.length > 0 ) {
-            validatePageOrder( pageListWeb );
+            updateReport( validation );
             console.log( '    PAGES:', pageListWeb.length );
             // save page list to repository
-            saveFileJSON( pagesFile, JSON.stringify( pageListWeb, null, 2 ) );
+            saveFileJSON( pagesFile, pageListWeb );
         }
         // process next chapter
         setTimeout( syncChapters.bind( null, mangaWeb, chapterListWeb, callback, chapterIndex + 1 ), pageDelay );
@@ -195,7 +177,7 @@ function syncMangas( mangaListWeb, mangaLimit, mangaIndex ) {
     mangaIndex = mangaIndex || 0;
     mangaLimit = mangaLimit || mangaListWeb.length;
     if( mangaIndex >= mangaLimit || mangaIndex >= mangaListWeb.length ) {
-        sendReport();
+        saveFileJSON( './report.json', report );
         return;
     }
     let mangaWeb = mangaListWeb[mangaIndex];
@@ -220,8 +202,6 @@ function syncMangas( mangaListWeb, mangaLimit, mangaIndex ) {
  *** MAIN ***
  ************/
 
-console.log( pageFrom, pageTo, updateLimit );
-exit();
 connector.getMangas( function( error, mangaListWeb ) {
     if( !error && mangaListWeb && mangaListWeb.length > 0 ) {
         saveMangaListWeb( mangaListWeb );
