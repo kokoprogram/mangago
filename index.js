@@ -13,6 +13,13 @@ var updateLimit = 2500;//undefined
 var chapterDelay = 0;
 var pageDelay = 0;
 
+var report = {
+    overall: 0,
+    validated: 0,
+    valid: 0,
+    invalid: 0
+};
+
 /**
  * 
  * @param {*} uri 
@@ -114,6 +121,36 @@ function chapterExist( file ) {
 }
 
 /**
+ * Updates the report.
+ * Return values:
+ *   unable validate => undefined
+ *   order valid => true
+ *   order invalid => false
+ * @param {*} links 
+ */
+function validatePageOrder( links ) {
+    report.overall++;
+    if( !links.find( link => link.match( /\/00[1-9]\.[a-z]{3,4}$/ ) ) ) {
+        return undefined;
+    }
+    report.validated++;
+    let shuffled = links
+    .filter( link => link.indexOf( '/cspiclink/' ) === -1 )
+    .map( link => link.split( '/' ).pop() );
+    if( shuffled.join( ',' ) === shuffled.sort().join( ',' ) ) {
+        report.valid++;
+        return true;
+    } else {
+        report.invalid++;
+        return false;
+    }
+}
+
+function sendReport() {
+    console.log( report );
+}
+
+/**
  * 
  * @param {*} chapterListWeb 
  */
@@ -137,6 +174,7 @@ function syncChapters( mangaWeb, chapterListWeb, callback, chapterIndex ) {
     // get pages from web
     connector.getPages( chapterWeb, function( error, pageListWeb ) {
         if( !error && pageListWeb && pageListWeb.length > 0 ) {
+            validatePageOrder( pageListWeb );
             console.log( '    PAGES:', pageListWeb.length );
             // save page list to repository
             saveFileJSON( pagesFile, JSON.stringify( pageListWeb, null, 2 ) );
@@ -156,6 +194,7 @@ function syncMangas( mangaListWeb, mangaLimit, mangaIndex ) {
     mangaIndex = mangaIndex || 0;
     mangaLimit = mangaLimit || mangaListWeb.length;
     if( mangaIndex >= mangaLimit || mangaIndex >= mangaListWeb.length ) {
+        sendReport();
         return;
     }
     let mangaWeb = mangaListWeb[mangaIndex];
