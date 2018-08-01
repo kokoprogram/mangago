@@ -4,7 +4,7 @@ cd $(dirname $(realpath $0))
 rm -r -f node_modules
 npm install
 git pull
-node --max-old-space-size=4096 .
+node --max-old-space-size=4096 . undefined undefined 2500
 git add .
 git commit -m 'autoupdate'
 git push
