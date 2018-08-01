@@ -6,9 +6,10 @@ const connector = hakuneko.mangago;
 
 var pageFrom = ( process.argv.length > 2 ? process.argv[2] : 1 );
 var pageTo = ( process.argv.length > 3 ? process.argv[3] : 9999 );
-var pageFrom = parseInt( pageFrom ) || 1;
-var pageTo = parseInt( pageTo ) || 9999;
-var updateLimit = 2500;//undefined
+var updateLimit = ( process.argv.length > 4 ? process.argv[4] : 2500 );
+pageFrom = parseInt( pageFrom ) || 1;
+pageTo = parseInt( pageTo ) || 9999;
+updateLimit = parseInt( updateLimit ) || 2500;
 
 var chapterDelay = 0;
 var pageDelay = 0;
