@@ -1,5 +1,389 @@
 [
   {
+    "id": "m_v-6-chapter-.11",
+    "title": "Vol.6 Ch.10  : Glossary of Cosplay Terms",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-.10",
+    "title": "Vol.6 Ch.9  : Bonus Original Manga",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-.9",
+    "title": "Vol.6 Ch.8",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-.8",
+    "title": "Vol.6 Ch.7",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-.7",
+    "title": "Vol.6 Ch.6",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-.6",
+    "title": "Vol.6 Ch.6",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-.5",
+    "title": "Vol.6 Ch.5",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-.4",
+    "title": "Vol.6 Ch.4",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-.3",
+    "title": "Vol.6 Ch.3",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-.2",
+    "title": "Vol.6 Ch.2",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-6-chapter-.1",
+    "title": "Vol.6 Ch.1",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.11",
+    "title": "Vol.5 Ch.11  : Glossary of Cosplay Terms",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.10",
+    "title": "Vol.5 Ch.10  : Bonus Original Manga",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.9",
+    "title": "Vol.5 Ch.9",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.8",
+    "title": "Vol.5 Ch.8",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.7",
+    "title": "Vol.5 Ch.7",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.6",
+    "title": "Vol.5 Ch.6",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.5",
+    "title": "Vol.5 Ch.5",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.4",
+    "title": "Vol.5 Ch.4",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.3",
+    "title": "Vol.5 Ch.3",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.2",
+    "title": "Vol.5 Ch.2",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-5-chapter-.1",
+    "title": "Vol.5 Ch.1",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.11",
+    "title": "Vol.4 Ch.11  : Glossary of Cosplay Terms",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.10",
+    "title": "Vol.4 Ch.10  : Bonus Original Manga",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.9",
+    "title": "Vol.4 Ch.9",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.8",
+    "title": "Vol.4 Ch.8",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.7",
+    "title": "Vol.4 Ch.7",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.6",
+    "title": "Vol.4 Ch.6",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.5",
+    "title": "Vol.4 Ch.5",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.4",
+    "title": "Vol.4 Ch.4",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.3",
+    "title": "Vol.4 Ch.3",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.2",
+    "title": "Vol.4 Ch.2",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-4-chapter-.1",
+    "title": "Vol.4 Ch.1",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.11",
+    "title": "Vol.3 Ch.11  : Glossary of Cosplay Terms",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.10",
+    "title": "Vol.3 Ch.10",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.9",
+    "title": "Vol.3 Ch.9",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.8",
+    "title": "Vol.3 Ch.8",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.7",
+    "title": "Vol.3 Ch.7",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.6",
+    "title": "Vol.3 Ch.6",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.5",
+    "title": "Vol.3 Ch.5",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.4",
+    "title": "Vol.3 Ch.4",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.3",
+    "title": "Vol.3 Ch.3",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.2",
+    "title": "Vol.3 Ch.2",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-3-chapter-.1",
+    "title": "Vol.3 Ch.1",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.12",
+    "title": "Vol.2 Ch.12  : Glossary of Cosplay Terms",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-11",
+    "title": "Vol.2 Ch.11",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.10",
+    "title": "Vol.2 Ch.10",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.9",
+    "title": "Vol.2 Ch.9",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.8",
+    "title": "Vol.2 Ch.8",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.7",
+    "title": "Vol.2 Ch.7",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.6",
+    "title": "Vol.2 Ch.6",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.5",
+    "title": "Vol.2 Ch.5",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.4",
+    "title": "Vol.2 Ch.4",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.3",
+    "title": "Vol.2 Ch.3",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.2",
+    "title": "Vol.2 Ch.2",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-2-chapter-.1",
+    "title": "Vol.2 Ch.1",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-1-chapter-.10",
+    "title": "Vol.1 Ch.10  : Glossary of Cosplay Terms",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-1-chapter-9",
+    "title": "Vol.1 Ch.9",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-1-chapter-.8",
+    "title": "Vol.1 Ch.8",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-1-chapter-.7",
+    "title": "Vol.1 Ch.7",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-1-chapter-.6",
+    "title": "Vol.1 Ch.6",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-1-chapter-.5",
+    "title": "Vol.1 Ch.5",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-1-chapter-.4",
+    "title": "Vol.1 Ch.4",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
+    "id": "m_v-1-chapter-.3",
+    "title": "Vol.1 Ch.3",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
     "id": "bd7e214a1e52d856_Vol1_Ch2",
     "title": "Vol.1 Ch.2  : n.2",
     "language": "en",
