@@ -1,7 +1,13 @@
 [
   {
+    "id": "d_chapter-5",
+    "title": "Ch.5  : Getsuyoubi no Tawawa Sono V",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
     "id": "d_chapter-4.5",
-    "title": "Ch.4.5  : Getsuyoubi no Tawawa Sono IV + α",
+    "title": "Ch.4.5  : Getsuyoubi no Tawawa Sono IV + u03b1",
     "language": "en",
     "scanlator": ""
   },
@@ -12,20 +18,14 @@
     "scanlator": ""
   },
   {
-    "id": "c002",
-    "title": "Ch.2  : Getsuyoubi no Tawawa Sono II",
-    "language": "en",
-    "scanlator": ""
-  },
-  {
-    "id": "c001",
-    "title": "Ch.1",
+    "id": "hs_v-1-chapter-3",
+    "title": "Vol.1 Ch.3",
     "language": "en",
     "scanlator": ""
   },
   {
     "id": "131113fb6144dc48_Vol25_Ch0",
-    "title": "Vol.2.5 Ch.0  : Getsuyoubi no Tawawa Sono II + Î± C90 Kaijou Gentei",
+    "title": "Vol.2.5 Ch.0  : Getsuyoubi no Tawawa Sono II + u00ceu00b1 C90 Kaijou Gentei",
     "language": "en",
     "scanlator": ""
   },
@@ -36,8 +36,14 @@
     "scanlator": ""
   },
   {
+    "id": "hs_v-1-chapter-1.5",
+    "title": "Vol.1 Ch.1.5",
+    "language": "en",
+    "scanlator": ""
+  },
+  {
     "id": "6d07905ad0b0d20e_Vol1_Ch0",
-    "title": "Vol.1 Ch.0  : Getsuyoubi no Tawawa",
+    "title": "Vol.1 Ch.1  : Getsuyoubi no Tawawa",
     "language": "en",
     "scanlator": ""
   }
